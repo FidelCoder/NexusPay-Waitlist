@@ -145,7 +145,6 @@ function Headpage() {
         <div className="flex gap-x-3 items-center">
           <Switch checked={checked} setChecked={setChecked} />
           <p className="text-sm text-white hidden md:block">
-            Download as Template
           </p>
         </div>
 
