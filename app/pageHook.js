@@ -159,7 +159,7 @@ function PageHook() {
                     />
                   </span>
                   <span className="bg-clip-text text-transparent dark:bg-gradient-to-r bg-gradient-to-tr dark:from-white from-black to-neutral-600 dark:to-neutral-700">
-                  Discover the Future with NexusPay: Exclusive Access & Resources
+                  Discover the Future with NexusPay
                   </span>
                 </div>
               </div>
