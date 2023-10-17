@@ -201,7 +201,7 @@ function PageHook() {
               /> */}
 
 <button
-    onClick={() => window.location.href="https://ms79lntgtsh.typeform.com/to/OMaaNZOf"}
+    onClick={() => window.location.href="https://forms.gle/2WXUn3Xwdzh7sAKv6"}
     className={` flex-1 py-2.5 outline-none focus:border-2 focus:border-neutral-100 dark:border bg-opacity-20 shadow-md border 
                 border-neutral-400   dark:text-white dark:border-white/20 placeholder:text-neutral-500  pl-5 rounded-lg focus-within:border-none ${
                 isDirty && !isValid
